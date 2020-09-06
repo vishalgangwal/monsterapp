@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  
+  }
+  body{
+      background: linear-gradient(
+      to left,
+      #07689f,
+      #40a8c4    
+      );
+  }
+  h1{
+      font-family: Bigelow Rules;
+  font-size:80px;
+  color: #a3d2ca;
+  }
+  .search {
+      -webkit-appearance: none;
+      border: none;
+      outline: none;
+      padding: 15px;
+      width: 450px;
+      line-height: 30px;
+      margin-bottom: 30px;
+      border-radius: 25px;
+      font-size: 25px;
+    }
+    
